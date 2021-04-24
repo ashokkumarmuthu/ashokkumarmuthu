@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Ashok | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<img align="left" alt="Ashok | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
 
 <br />
 [linkedin]: https://www.linkedin.com/in/ashok-kumar-5b8072170
